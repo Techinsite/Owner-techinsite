@@ -7,9 +7,8 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# New page
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+# Techinsite
+мы продаем не приборы, а точность!
 
 </header>
 
