@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Techinsite
+# Техинсайт
 мы продаем не приборы, а точность!
 
 </header>
@@ -19,9 +19,8 @@
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-## Step 2: Configure your site
+##  Радиоизмерения!
 
-_You turned on GitHub Pages! :tada:_
 
 We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
